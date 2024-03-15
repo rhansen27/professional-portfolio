@@ -9,6 +9,11 @@ header {
   margin: 0;
   padding: 0.75rem;
 }
+h1 {
+  margin: 0;
+  padding: 0;
+  border: 2px solid var(--secondary-color);
+}
 nav {
   display: flex;
   justify-content: space-around;
@@ -28,4 +33,45 @@ body {
   margin: 0;
   padding: 0;
   background-color: white;
+}
+.about-me img {
+  width: 25%;
+  border: 2px solid var(--secondary-color);
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px var(--secondary-color);
+  margin: 1rem;
+}
+.about-me {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1rem;
+}
+.about-me h2 {
+  font-size: 250%;
+  text-align: center;
+}
+.about-me p {
+  width: 50%;
+  text-align: center;
+}
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  padding: 1rem;
+}
+.card img {
+  width: 100%;
+  border: 2px solid var(--secondary-color);
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px var(--secondary-color);
+.card {
+  margin: 1rem;
+  padding: 1rem;
+  border: 2px solid var(--main-color);
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px var(--main-color);
+  width: 30%;
 }
