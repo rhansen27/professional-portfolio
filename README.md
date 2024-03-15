@@ -17,13 +17,10 @@ This is the start of my professional portfolio that will grow with me as I becom
 
 - Take a look around, and feel free to contact me as needed or offer suggestions for improvements!
 
-```md
  ![image](https://imgur.com/a/JMYfEv7)
-```
 
-```md
+
 ![alt text](./assets/pictures/site-2.png)
-```
 
 ## Credits
 
