@@ -17,7 +17,7 @@ This is the start of my professional portfolio that will grow with me as I becom
 
 - Take a look around, and feel free to contact me as needed or offer suggestions for improvements!
 
- ![image](https://imgur.com/a/JMYfEv7)
+![alt text](./assets/pictures/site-1.png)
 
 
 ![alt text](./assets/pictures/site-2.png)
