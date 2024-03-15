@@ -18,7 +18,7 @@ This is the start of my professional portfolio that will grow with me as I becom
 - Take a look around, and feel free to contact me as needed or offer suggestions for improvements!
 
 ```md
- ![Screenshot](./assets/pictures/site-1.png
+ ![Screenshot](./assets/pictures/site-1.png)
 ```
 
 ```md
