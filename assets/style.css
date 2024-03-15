@@ -122,3 +122,18 @@ footer {
   margin: 0;
   padding: 0.75rem;
 }
+
+@media screen and (max-width: 768px) {
+  .about-me {
+    flex-direction: column;
+  }
+  .about-me img {
+    width: 40%;
+  }
+  .card {
+    width: 100%;
+  }
+  .lower-blocks {
+    flex-direction: column;
+  }
+}
